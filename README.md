@@ -21,9 +21,9 @@
 	- CNN
 	- DNN
 	- LSTM
-	- CNNg (Torch based CNN)
-	- DNNg (Torch based DNN)
-	- LSTMg (Torch based LSTM)
+	- CNN-G
+	- DNN-G
+	- LSTM-G
 	- SVM
 	- Decision Tree
 	- Voting Classifier 
