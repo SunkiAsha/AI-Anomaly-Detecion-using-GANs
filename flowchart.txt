@@ -55,5 +55,5 @@ Extension
 
 In the base paper the author mentioned to use different  Dataset for analysis with Deep learning and Machine Learning  models, in which G-CNN got 90% of accuracy
 As an extension we applied an ensemble method  combining the predictions of multiple individual models to produce a more robust and accurate final prediction.
-However, we can further enhance the performance by exploring other ensemble techniques such as Voting Classifier and Stacking Classifier got 99% of accuracy 
+However, we can further enhance the performance by exploring other ensemble techniques such as Voting Classifier and Stacking Classifier got 100% of accuracy 
 As an extension we can build the front end using the flask framework for user testing and with user authentication.
